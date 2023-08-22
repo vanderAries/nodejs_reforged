@@ -1,3 +1,3 @@
-# ts-express-regular
+# nodejs_reforged
 
-TypeScript, Express, Regular Server, SQL
+TypeScript based template repo for node.js development.

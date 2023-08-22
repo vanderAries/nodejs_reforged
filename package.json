@@ -1,7 +1,7 @@
 {
   "name": "ts-express-regular",
   "version": "1.0.0",
-  "description": "TypeScript, Express, Regular Server, SQL",
+  "description": "TypeScript based template repo for node.js development.",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
